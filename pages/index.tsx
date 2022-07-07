@@ -39,7 +39,7 @@ function HomePage() {
         <meta property="og:type" content="website" />
         <meta
           property="og:image"
-          content="https://photos.daneden.me/images/00013.jpg"
+          content="https://photo.saower.com/images/00013.jpg"
         />
         <meta property="og:description" content={siteInfo.description} />
       </Head>
